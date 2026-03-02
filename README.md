@@ -1,5 +1,6 @@
-## Hi there 👋
-
+#  Welcome Develoments 👋
+I'm Learning Coder at Riwi,My Goals in Riwi are become a great developer.
+My Hobbies are Lisent music, watch videos,seires,anime,etc..
 <!--
 **LilDAng31/LilDAng31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
